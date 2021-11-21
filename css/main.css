@@ -26,7 +26,7 @@
   }
   .weather{
     position: relative;
-    height: 300px;
+    height: 320px;
     width: 400px;
   background: #7abcff; /* Old browsers */
   background: -moz-radial-gradient(center, ellipse cover,  #7abcff 0%, #60abf8 44%, #4096ee 100%); /* FF3.6+ */
